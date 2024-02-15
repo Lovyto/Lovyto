@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lovyto
-- 👀 I’m interested in QA
+- 👀 I’m interested in QAhttps://github.com/Lovyto/Lovyto/blob/main/README.md
 - 🌱 I’m currently learning Software technologies
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me is your problem!
